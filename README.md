@@ -1,1 +1,1 @@
-# Software-Engineering-Project--Real-Estate-Management-Sysytem
+The project focuses on developing a Real Estate Database Management System that will streamline the storage, retrieval, and management of real estate data. The system will allow real estate agents, property managers, and customers to access property listings, manage transactions, and maintain records efficiently. By centralizing property-related data and providing intuitive search functionalities, the system aims to enhance the overall efficiency of real estate operations.
